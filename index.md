@@ -11,11 +11,13 @@ I am passionate about using computers to solve biological problems.
 ### Education
 
 PhD Candidate, Biological Sciences
+
 - Purdue University
 - Advisor: Daisuke Kihara
 - Focus area: computational protein-protein docking
 
 BA, Biological Sciences
+
 - Mount Holyoke College
 - Advisor: Stan Rachootin
 - Thesis: Failure to launch: Characterization of a flightless strain of Drosophila hydei [view](http://hdl.handle.net/10166/764)
