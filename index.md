@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/lennax/lennax.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am passionate about using computers to solve biological problems. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Links
 
-### Markdown
+- [Google Scholar](https://scholar.google.com/citations?user=Sd2ZuycAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/lennapeterson/)
+- [ResearchGate](https://www.researchgate.net/profile/Lenna_Peterson)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
-```markdown
-Syntax highlighted code block
+PhD Candidate, Biological Sciences
+- Purdue University
+- Advisor: Daisuke Kihara
+- Focus area: computational protein-protein docking
 
-# Header 1
-## Header 2
-### Header 3
+BA, Biological Sciences
+- Mount Holyoke College
+- Advisor: Stan Rachootin
+- Thesis: Failure to launch: Characterization of a flightless strain of Drosophila hydei [view](http://hdl.handle.net/10166/764)
 
-- Bulleted
-- List
+### Publications
 
-1. Numbered
-2. List
+Lenna Peterson, H Kim, J Esquivel-Rodriguez, A Roy, X Han, W Shin, J Zhang, G Terashi, M Lee, and D Kihara. Human and server docking prediction for CAPRI round 30-35 using LZerD with combined scoring functions. _Proteins._ Pre-print. doi: [10.1002/prot.25165](http://dx.doi.org/10.1002/prot.25165)
 
-**Bold** and _Italic_ and `Code` text
+Lenna Peterson, M Jamroz, A Kolinski, and D Kihara. (2017) Predicting real-valued protein residue fluctuation using FlexPred. _Methods in Molecular Biology_ 1484: 175–186. doi: [10.1007/978-1-4939-6406-2_13](http://dx.doi.org/10.1007/978-1-4939-6406-2_13)
 
-[Link](url) and ![Image](src)
-```
+M Lensink, ... Lenna Peterson, D Kihara, ... S Wodak. (2016) Prediction of homo- and hetero-protein complexes by protein docking and template-based modeling: a CASP-CAPRI experiment. _Proteins_ 84: 323-348. doi: [10.1002/prot.25007](http://dx.doi.org/10.1002/prot.25007)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lennax/lennax.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lenna Peterson, X Kang, and D Kihara. (2014) Assessment of protein side-chain conformation prediction methods in different residue environments. _Proteins_ 82: 1971-1984. doi: [10.1002/prot.24552](http://dx.doi.org/10.1002/prot.24552)
