@@ -4,9 +4,9 @@ I am passionate about using computers to solve biological problems.
 
 ### Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=Sd2ZuycAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/lennapeterson/)
-- [ResearchGate](https://www.researchgate.net/profile/Lenna_Peterson)
+- <a href="https://scholar.google.com/citations?user=Sd2ZuycAAAAJ" target="_blank">Google Scholar</a>
+- <a href="https://www.linkedin.com/in/lennapeterson/" target="_blank">LinkedIn</a>
+- <a href="https://www.researchgate.net/profile/Lenna_Peterson" target="_blank">ResearchGate</a>
 
 ### Education
 
@@ -20,7 +20,7 @@ BA, Biological Sciences
 
 - Mount Holyoke College
 - Advisor: Stan Rachootin
-- Thesis: Failure to launch: Characterization of a flightless strain of Drosophila hydei [view](http://hdl.handle.net/10166/764)
+- Thesis: Failure to launch: Characterization of a flightless strain of _Drosophila hydei_ <a href="http://hdl.handle.net/10166/764" target="_blank">view</a>
 
 ### Publications
 
