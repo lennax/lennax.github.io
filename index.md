@@ -24,6 +24,8 @@ BA, Biological Sciences
 
 ### Publications
 
+**Lenna Peterson**, A Roy, C Christoffer, G Terashi, and D Kihara. (2017) Modeling disordered protein interactions from biophysical principles. _PLoS Computational Biology_, preprint. doi: <a href="http://dx.doi.org/10.1371/journal.pcbi.1005485" target="_blank">10.1371/journal.pcbi.1005485</a>
+
 **Lenna Peterson**, H Kim, J Esquivel-Rodriguez, A Roy, X Han, W Shin, J Zhang, G Terashi, M Lee, and D Kihara. (2017) Human and server docking prediction for CAPRI round 30-35 using LZerD with combined scoring functions. _Proteins_ 85: 513-527. doi: <a href="http://dx.doi.org/10.1002/prot.25165" target="_blank">10.1002/prot.25165</a>
 
 **Lenna Peterson**, M Jamroz, A Kolinski, and D Kihara. (2017) Predicting real-valued protein residue fluctuation using FlexPred. _Methods in Molecular Biology_ 1484: 175–186. doi: <a href="http://dx.doi.org/10.1007/978-1-4939-6406-2_13" target="_blank">10.1007/978-1-4939-6406-2_13</a>
