@@ -33,3 +33,9 @@ BA, Biological Sciences
 M Lensink, ... **Lenna Peterson**, D Kihara, ... S Wodak. (2016) Prediction of homo- and hetero-protein complexes by protein docking and template-based modeling: a CASP-CAPRI experiment. _Proteins_ 84: 323-348. doi: <a href="http://dx.doi.org/10.1002/prot.25007" target="_blank">10.1002/prot.25007</a>
 
 **Lenna Peterson**, X Kang, and D Kihara. (2014) Assessment of protein side-chain conformation prediction methods in different residue environments. _Proteins_ 82: 1971-1984. doi: <a href="http://dx.doi.org/10.1002/prot.24552" target="_blank">10.1002/prot.24552</a>
+
+### Projects
+
+- <a href="https://github.com/lennax/blackironhack2016" target="_blank">Travel Risk Evaluator</a> (2016): A website to evaluate the risk of contracting Zika virus compared to other risks. It was created for a 4-stage, 21-day hackathon. UX design, HTML/CSS, client-side JavaScript, Plotly.js/D3, server-side Python, 3 API calls
+
+- <a href="https://github.com/lennax/biopython/tree/f_loc5" target="_blank">Coordinate Mapper</a> (2012): A Python (Biopython) module to convert positions between DNA, RNA, and protein numbering systems. It was created as part of Google Summer of Code 2012 via the Open Bioinformatics Foundation. Python: inheritance, decorators, decorator factory, custom exceptions, unit testing
