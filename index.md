@@ -16,7 +16,7 @@ PhD, Biological Sciences (May 2017)
 - Advisor: Daisuke Kihara
 - Dissertation: Computational modeling of multifarious protein interactions
 
-BA, Biological Sciences
+BA, Biological Sciences (May 2010)
 
 - Mount Holyoke College
 - Advisor: Stan Rachootin
