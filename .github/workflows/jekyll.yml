@@ -12,6 +12,7 @@ jobs:
     runs-on: [self-hosted, linux]
     steps:
       - run: echo $GITHUB_WORKSPACE
+      - run: echo $USER
   build:
     name: jekyll
     runs-on: ubuntu-latest
